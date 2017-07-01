@@ -3,6 +3,7 @@
 and command-line arguments.
 """
 import os,sys,platform
+import django 
 
 # TODO: allow setting hostname as a command-line argument also?
 try:
